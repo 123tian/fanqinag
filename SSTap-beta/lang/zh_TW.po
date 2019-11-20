@@ -1,0 +1,2141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sockscap64 1.0\n"
+"POT-Creation-Date: 2017-11-10 09:48+0800\n"
+"PO-Revision-Date: 2017-11-10 10:08+0800\n"
+"Last-Translator: TinchBear <tinchbear@gmail.com>\n"
+"Language-Team: Taro Lab <sockscap64@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: GBK\n"
+"X-Poedit-KeywordsList: _;N_\n"
+"X-Poedit-SearchPath-0: Tun2Proxy/trunk/Tun2Proxy\n"
+"X-Poedit-SearchPath-1: SSR/trunk/src\n"
+
+#: SSR/trunk/src/S45Client.cpp:347
+msgid "Unable to resolve destination domain name"
+msgstr "無法解析目標網域"
+
+#: SSR/trunk/src/S45Client.cpp:374 SSR/trunk/src/S45Client.cpp:385
+#: SSR/trunk/src/S45Client.cpp:904 SSR/trunk/src/S45Client.cpp:916
+#: SSR/trunk/src/S45Client.cpp:925
+msgid "Failed to send connection"
+msgstr "發送連接失敗"
+
+#: SSR/trunk/src/S45Client.cpp:649 SSR/trunk/src/S45Client.cpp:690
+#: SSR/trunk/src/S45Client.cpp:705 SSR/trunk/src/S45Client.cpp:728
+#: SSR/trunk/src/S45Client.cpp:758 SSR/trunk/src/S45Client.cpp:773
+#: SSR/trunk/src/S45Client.cpp:810 SSR/trunk/src/S45Client.cpp:937
+msgid "Connection through the proxy server was failed."
+msgstr "連接通過代理服務器失敗."
+
+#: SSR/trunk/src/S45Client.cpp:829
+msgid "Connection through the proxy server was failed. IPV6 NOT SUPPORTED."
+msgstr "連接通過代理服務器失敗. IPV6未被支持."
+
+#: SSR/trunk/src/S45Client.cpp:846
+msgid ""
+"Authentication was failed, please confirm you username and password is "
+"correct."
+msgstr "認證失敗, 請確認你的帳號和密碼是對的."
+
+#: SSR/trunk/src/S45Client.cpp:946
+msgid "Authentication error: wrong username or password."
+msgstr "認證失敗: 錯誤的帳號和密碼."
+
+#: SSR/trunk/src/SSClient.cpp:527
+msgid "Failed to send initial packet."
+msgstr "發送初始化包失敗."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:49
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:49
+msgid "UDP Testing started."
+msgstr "UDP測試開始."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:51
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:51
+msgid "TCP Testing started."
+msgstr "TCP測試開始."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:59
+msgid "Proxy server node invalid."
+msgstr "代理伺服器無效."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:90
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:95
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:193
+#, c-format
+msgid "Speed : %d KB/s (Approximate)"
+msgstr "網速: %d KB/s (大約)"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:95
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:110
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:100
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:115
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:198
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:202
+#, c-format
+msgid "Latency : %d ms"
+msgstr "延遲: %d ms"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:116
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:121
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:208
+msgid "Testing is done!"
+msgstr "測試完成!"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:149
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:671
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:155
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:286
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:648
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:242
+msgid "Test url is empty."
+msgstr "測試URL爲空."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:153
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:260
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:159
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:290
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:246
+#, c-format
+msgid "Testing url: %s"
+msgstr "測試URL: %s"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:162
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:278
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:168
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:299
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:255
+msgid "Sending protocol packet..."
+msgstr "傳送協定封包..."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:165
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:281
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:171
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:302
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:258
+msgid "Protocol packet Sent failed."
+msgstr "協定封包傳送失敗."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:168
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:284
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:174
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:305
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:261
+msgid "Protocol packet sent."
+msgstr "協定封包已傳送."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:173
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:289
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:179
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:310
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:266
+msgid "Generate request header error."
+msgstr "請求標頭產生失敗."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:178
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:294
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:184
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:315
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:684
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:271
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:650
+#, c-format
+msgid "Sending request packet...(length: %d bytes)"
+msgstr "正在傳送請求封包...( 長度: %d 位元組 )"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:187
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:303
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:193
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:324
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:280
+msgid "Request packet sent failed."
+msgstr "請求封包傳送失敗."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:190
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:306
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:196
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:327
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:283
+msgid "Request packet sent."
+msgstr "請求封包已傳送."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:192
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:308
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:198
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:329
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:285
+msgid "Waiting response..."
+msgstr "等待回應..."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:196
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:316
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:202
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:335
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:315
+msgid ""
+"Response received failed! connection reset by peer or timeout, maybe your "
+"password or encryption is wrong."
+msgstr ""
+"回應訊息接收失敗! 連線被重設或回應時間過長, 有可能是你的密碼或設定的加密方式"
+"錯誤."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:201
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:207
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:341
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:324
+#, c-format
+msgid "Got correct response (length: %d bytes)."
+msgstr "收到正常的回應( 長度: %d 位元組)."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:209
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:347
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:215
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:370
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:333
+#, c-format
+msgid "Got %d bytes unrecognized packet, maybe encryption is wrong."
+msgstr "取得 %d 位元組無法辨別的數據包. 可能是加密方式設定錯誤."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:216
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:222
+msgid "Now testing TCP transmission..."
+msgstr "正在測試TCP數據傳送..."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:220
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:226
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:350
+msgid "TCP transmission...Passed!"
+msgstr "測試TCP數據傳送...通過!"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:224
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:230
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:354
+msgid "TCP transmission...UnPassed!"
+msgstr "測試TCP數據傳送...未通過!"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:268
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:681
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:658
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:623
+msgid "Parse url error."
+msgstr "解析網域失敗."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:335
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:358
+#, c-format
+msgid "Got IP address: %s."
+msgstr "取得IP位址: %s."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:364
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:571
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:365
+msgid "Testing UDP relay..."
+msgstr "正在測試UDP轉發..."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:366
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:573
+msgid "Requesting UDP relay from proxy server..."
+msgstr "正在從代理伺服器請求UDP轉發..."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:371
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:383
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:578
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:590
+msgid "Can not connect to proxy."
+msgstr "無法連線到代理伺服器."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:376
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:583
+#, c-format
+msgid "Server bound on %s:%d."
+msgstr "伺服器綁定在 %s:%d."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:387
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:594
+msgid "Udp tunnel has been built"
+msgstr "UDP通道已建立"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:389
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:595
+msgid "Testing data transmission..."
+msgstr "正在測試數據傳送..."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:408
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:412
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:396
+msgid "Testing UDP relay...Passed!"
+msgstr "測試UDP轉發...通過!"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:415
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:419
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:403
+msgid "Testing UDP relay...Unpassed!"
+msgstr "測試UDP轉發...未通過!"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:424
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:429
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:413
+msgid "UDP relay...Passed!"
+msgstr "測試UDP轉發...通過!"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:428
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:433
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:417
+msgid "UDP relay...Unpassed!"
+msgstr "測試UDP轉發...未通過!"
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:441
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:446
+msgid "Connecting to SS node..."
+msgstr "連線到SS伺服器..."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:458
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:468
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:507
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:528
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:463
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:473
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:512
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:533
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:447
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:457
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:496
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:517
+msgid "Connecting to SS node error."
+msgstr "SS伺服器連線錯誤."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:479
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:391
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:484
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:578
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:374
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:468
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:740
+msgid "Can not resolve SS server address."
+msgstr "無法解析SS伺服器位址."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:560
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:565
+msgid "Connected to SS node."
+msgstr "已連線到SS伺服器."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:659
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:588
+msgid "Connect to proxy server failed."
+msgstr "連接到代理服務器失敗."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:698
+msgid "Failed to send protocol packet to proxy server."
+msgstr "發送協議包到代理服務器失敗."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:719
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:656
+msgid "Failed to send testing packet."
+msgstr "發送測試包失敗."
+
+#: SSR/trunk/src/testing/CS45ClientTesting.cpp:730
+msgid "Failed to recv testing packet."
+msgstr "接收測試包失敗."
+
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:61
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:161
+msgid "Shadowsocks server node invalid."
+msgstr "Shadowsocks伺服器無效."
+
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:72
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:258
+msgid "Create Encryption error."
+msgstr "加密創建錯誤."
+
+#: SSR/trunk/src/testing/CSSClientTesting.cpp:383
+msgid "Now testing UDP relay..."
+msgstr "正在測試UDP轉發..."
+
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:71
+#, c-format
+msgid "Unsupported encryption: %s."
+msgstr "不支援的加密方式: %s."
+
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:83
+#, c-format
+msgid "Unsupported protocol: %s."
+msgstr "不支援的協定: %s."
+
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:91
+#, c-format
+msgid "Unsupported obfs: %s."
+msgstr "不支援的obfs: %s."
+
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:151
+msgid "Testing started."
+msgstr "測試已開始."
+
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:346
+msgid "Testing TCP transmission..."
+msgstr "測試TCP協定傳輸..."
+
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:636
+msgid "Failed to send connection request."
+msgstr "發送連接請求失敗."
+
+#: SSR/trunk/src/testing/CSSRClientTesting.cpp:693
+msgid "The connection was aborted by server."
+msgstr "連接被服務器結束."
+
+#: SSR/trunk/src/testing/TestingBase.cpp:51
+#, c-format
+msgid "Server IP: %s%s"
+msgstr "IP位址: %s%s"
+
+#: SSR/trunk/src/testing/TestingBase.cpp:54
+#, c-format
+msgid "Server Port: %d"
+msgstr "伺服器埠: %d"
+
+#: SSR/trunk/src/testing/TestingBase.cpp:63
+#, c-format
+msgid "Username: %s"
+msgstr "用戶名: %s"
+
+#: SSR/trunk/src/testing/TestingBase.cpp:63
+msgid "Empty"
+msgstr "空"
+
+#: SSR/trunk/src/testing/TestingBase.cpp:67
+#, c-format
+msgid "Password: %s"
+msgstr "密碼: %s"
+
+#: SSR/trunk/src/testing/TestingBase.cpp:73
+#, c-format
+msgid "Encryption: %s / %s / %s"
+msgstr "加密方式: %s / %s / %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/Caution.cpp:10
+msgid ""
+"Caution before starting this software\n"
+"\n"
+"Do Not Use the this Services in Countries where proxy Communications are "
+"Prohibited.\n"
+"\n"
+"The services is governed under the U.S laws. Other countries' laws are none "
+"of our concerns nor responsibilities.\n"
+"\n"
+"By nature, there are almost 200 countries in the World, with different laws. "
+"It is impossible to verify every countries' laws and regulations and make "
+"the software comply with all countries' laws in advance to release the "
+"software. If a user uses this service in a specific country, and damaged by "
+"public servants of the authority, the developer of this service or software "
+"will never be liable to recover or compensate such damages or criminal "
+"responsibilities.\n"
+"\n"
+"By using this software and service, the user must observe all concerned laws "
+"and rules with user's own responsibility. The user will be completely liable "
+"to any damages and responsibilities which are results of using this software "
+"and service, regardless of either inside or outside of U.S's territory.\n"
+"\n"
+"Especially in China mainland, because of the special network environment and "
+"national policy, be sure to use this software within the country's legal "
+"permission.\n"
+"\n"
+"The software will not provide any proxy itself, so you need to add your own "
+"proxy, be sure to buy proxy at an authoritative and legitimate sites.\n"
+"\n"
+"If you don't agree nor understand the above warnings, do not use any of this "
+"Service functions.\n"
+"\n"
+"Click button 'Accept' means that you understand the terms above and are "
+"willing to take all responsibilities.\n"
+msgstr ""
+"啟動本程式前請注意\n"
+"\n"
+"請勿在禁止使用代理的國家與地區使用本程式提供的功能.\n"
+"\n"
+"此功能受到美國法律的管轄，其他國家的法律可能不適用於本程式.\n"
+"\n"
+"當然，世界上有接近200多個國家，法律不盡相同，我們不可能去在釋出程式前去驗證此"
+"程式是否適用於所有國家的相關法律。如使用者在某些特定的國家與地區使用本程式，"
+"並被相關公務人員查處，本程式的開發人員不負任何有關責任.\n"
+"\n"
+"使用本程式，使用者必須遵守任何有關的法律與規則，此由用戶自行負責。無論是否在"
+"美國境內使用本程式，使用者都將要對任何對本程式的侵權與破壞性行爲承擔全部責"
+"任.\n"
+"\n"
+"特別是在中國大陸地區, 由于特別的網絡環境和國家政策, 請確保在該國法律允許的范"
+"圍內使用本軟體.\n"
+"\n"
+"此軟體自身不提供任何代理伺服器, 因此你需要添加你自己的代理節點, 請務必在權威"
+"且合法的站點購入代理節點.\n"
+"\n"
+"如果你不同意或不瞭解上述條款的內容，請勿使用本程式所提供的功能.\n"
+"\n"
+"點擊「接受」按鈕表示你已瞭解上述條款的內容，並願意承擔不正當使用引發的全部責"
+"任.\n"
+
+#: Tun2Proxy/trunk/Tun2Proxy/ComboBoxProxyList.cpp:226
+#, c-format
+msgid "[%d Nodes] %s"
+msgstr "[%d 節點] %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/ComboBoxProxyList.cpp:228
+#, c-format
+msgid "[%d Node] %s"
+msgstr "[%d 節點] %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/ComboBoxProxyList.cpp:308
+#: Tun2Proxy/trunk/Tun2Proxy/ComboBoxProxyList.cpp:431
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:219
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:243
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:188
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:212
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSelectProxy.cpp:62
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyLoader.cpp:262
+msgid "Default Group"
+msgstr "默認分組"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:11
+msgid "China"
+msgstr "中國"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:12
+msgid "United States of America"
+msgstr "美國"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:13
+msgid "United Kingdom"
+msgstr "英國"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:14
+msgid "France"
+msgstr "法國"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:15
+msgid "Greece"
+msgstr "希臘"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:16
+msgid "Netherlands"
+msgstr "荷蘭"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:17
+msgid "Norway"
+msgstr "挪威"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:18
+msgid "Germany"
+msgstr "德國"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:19
+msgid "Ukraine"
+msgstr "烏克蘭"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:20
+msgid "Russia"
+msgstr "俄羅斯"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:21
+msgid "Thailand"
+msgstr "泰國"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:22
+msgid "India"
+msgstr "印度"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:23
+msgid "South Korea"
+msgstr "南韓"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:24
+msgid "Singapore"
+msgstr "新加坡"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:25
+msgid "Japan"
+msgstr "日本"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:26
+msgid "Philippines"
+msgstr "菲律賓"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:27
+msgid "Malaysia"
+msgstr "馬來西亞"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:28
+msgid "Italy"
+msgstr "義大利"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:29
+msgid "Spain"
+msgstr "西班牙"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:30
+msgid "Brazil"
+msgstr "巴西"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:31
+msgid "Taiwan"
+msgstr "臺灣"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:32
+msgid "Hong Kong"
+msgstr "香港"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:33
+msgid "Macao"
+msgstr "澳門"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:34
+msgid "Laos"
+msgstr "寮國"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:35
+msgid "Vietnam"
+msgstr "越南"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:36
+msgid "Indonesia"
+msgstr "印度尼西亞"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:37
+msgid "Turkey"
+msgstr "土耳其"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:38
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:39
+msgid "Sweden"
+msgstr "瑞典"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:40
+msgid "Luxembourg"
+msgstr "盧森堡"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:41
+msgid "Australia"
+msgstr "澳洲"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:42
+msgid "New Zealand"
+msgstr "紐西蘭"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:43
+msgid "Canada"
+msgstr "加拿大"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:44
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:45
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:46
+msgid "Peru"
+msgstr "秘魯"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:47
+msgid "Panama"
+msgstr "巴拿馬"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:48
+msgid "Egypt"
+msgstr "埃及"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:49
+msgid "Africa"
+msgstr "南非"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:50
+msgid "Austria"
+msgstr "奧地利"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:51
+msgid "Romania"
+msgstr "羅馬尼亞"
+
+#: Tun2Proxy/trunk/Tun2Proxy/CountryList .cpp:64
+msgid "Unkown Country"
+msgstr "其他國家"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAbout.cpp:54
+msgid "About"
+msgstr "關於"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddFromLink.cpp:54
+msgid "Please enter the proxy link( Support shadowsocks link )."
+msgstr "請輸入代理伺服器網址( 支持Shadowsocks連結 )."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddFromLink.cpp:77
+msgid "Can not resolve this link."
+msgstr "無法解析此連結."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddFromLink.cpp:86
+msgid "Add server from proxy link."
+msgstr "以代理連結新增伺服器."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddFromLink.cpp:87
+msgid "OK"
+msgstr "確定"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddFromLink.cpp:88
+msgid "Cancel"
+msgstr "取消"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:73
+msgid "Add new rule"
+msgstr "新增代理規則"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:74
+msgid "English name of rule:"
+msgstr "規則英文名:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:75
+msgid "Chinese name of rule:"
+msgstr "規則中文名:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:76
+msgid "Action type:"
+msgstr "動作類型:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:77
+msgid ""
+"Rules list: \n"
+"Per line per rule. A valid rule is like this: 1.2.16.0/20"
+msgstr ""
+"規則列表:\n"
+"每行一條規則. 一條有效的規則是這樣的: 1.2.16.0/20"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:78
+msgid "[0] lines"
+msgstr "[0] 行"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:79
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:267
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:236
+#: Tun2Proxy/trunk/Tun2Proxy/DialogConfigureSmartDNS.cpp:163
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:66
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:268
+msgid "Save"
+msgstr "儲存"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:80
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:265
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:234
+msgid "Remarks:"
+msgstr "備註:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:82
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:87
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:89
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:108
+msgid "Direct"
+msgstr "直接連線"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:83
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:88
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:90
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:110
+msgid "Proxify"
+msgstr "Proxify"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:86
+msgid "Auto"
+msgstr "自動"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:152
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:244
+msgid "Rule already exists, please choose a new name."
+msgstr "規則已經存在, 請選擇一個新的名稱."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:172
+#, c-format
+msgid "[%d] lines"
+msgstr "[%d] 行"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:196
+msgid "English name of rule can not be empty."
+msgstr "規則的英文名不能爲空."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:201
+msgid "Rules list can not be empty."
+msgstr "規則列表不能爲空."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:206
+msgid "Please select action type."
+msgstr "請選擇動作類型."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:211
+msgid "Please tell me how to process DNS reuqest."
+msgstr "請告訴我如何處理DNS請求."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewProxyMode.cpp:282
+msgid "Add proxy mode failed."
+msgstr "添加代理模式失敗."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:257
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:226
+msgid "Add new proxy server"
+msgstr "新增新的代理伺服器"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:259
+msgid "Type:"
+msgstr "類型:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:260
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:229
+msgid "Server IP:"
+msgstr "IP位址:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:261
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:230
+msgid "Port:"
+msgstr "埠:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:262
+msgid "Username:"
+msgstr "用戶名:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:263
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:232
+msgid "Password:"
+msgstr "密碼:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:266
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:235
+msgid "Group:"
+msgstr "分組:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:268
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:237
+msgid "Additional route"
+msgstr "路由域"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:270
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:238
+msgid "Remote IP when you specify a local proxy, Only support one."
+msgstr "區域代理所對應的遠端伺服器IP, 僅支援填入單個."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:281
+msgid "Add proxy from link( Support SS link )"
+msgstr "從連結新增代理( 支援ss連結 )"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:282
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:249
+msgid "Get geolocation of this IP Address"
+msgstr "取得IP位址所在地"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:365
+msgid "Select a proxy type please."
+msgstr "請選擇代理類型."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:379
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:351
+msgid "Input server IP please."
+msgstr "請輸入伺服器IP位址."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:384
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:356
+msgid "Port must be in 0-65535."
+msgstr "埠必須介於0-65535之間."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:390
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:362
+msgid "Input SS server password please."
+msgstr "請輸入SS代理的密碼."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:415
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:389
+msgid "An invalid IP was entered in the additional route form"
+msgstr "你在路由域中輸入了一個無效的IP位址"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:423
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:397
+msgid "Unable to resolve the additional route domain name you entered"
+msgstr "無法解析您輸入的路由域的網域"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:650
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:651
+msgid ""
+"You entered a local IP as a proxy server address, so you may need to "
+"configure additional route to ensure that the program is running properly."
+msgstr "您輸入了一個區域代理, 因此您可能需要設定路由域才能確保程式正常運作."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSOCKSProxy.cpp:691
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:692
+msgid "Can not resolve your domain name when getting IP location."
+msgstr "取得IP位址時無法解析該網域."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:233
+msgid "Encryption:"
+msgstr "加密方式:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:248
+msgid "Add proxy from link( Support SS/SSR link )"
+msgstr "從連結新增代理( 支援SS/SSR連結 )"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:306
+msgid "Edit and activate it"
+msgstr "編輯並啟用"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAddNewSSRProxy.cpp:315
+msgid "Add and activate it"
+msgstr "新增並啟用"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:77
+msgid "Additional route management"
+msgstr "路由域管理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:78
+msgid "Action:"
+msgstr "動作:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:79
+msgid "IP Address:"
+msgstr "IP位址:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:80
+#: Tun2Proxy/trunk/Tun2Proxy/DialogBatchAddFromLink.cpp:89
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:110
+#: Tun2Proxy/trunk/Tun2Proxy/DialogProxyModeManagement.cpp:77
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:105
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSelectProxy.cpp:105
+msgid "Add"
+msgstr "新增"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:81
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:109
+#: Tun2Proxy/trunk/Tun2Proxy/DialogProxyModeManagement.cpp:79
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:104
+msgid "Delete"
+msgstr "刪除"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:82
+msgid "Wait..."
+msgstr "請等待..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:84
+msgid "IP Addresss"
+msgstr "IP位址"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:85
+msgid "Action"
+msgstr "動作"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:93
+msgid "Enter IP address here"
+msgstr "請在這里鍵入IP位址"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:112
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:642
+msgid "N/A"
+msgstr "N/A"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:165
+msgid "Can not resolve your domain name."
+msgstr "無法解析網域."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:179
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:239
+msgid "This route already exists"
+msgstr "此路由已存在"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:209
+msgid "IP Address can not be empty"
+msgstr "IP位址不能爲空"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:217
+msgid "Invalid IP address"
+msgstr "無效的IP位址"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:226
+msgid "You can not add a loopback IP address."
+msgstr "你不能新增一个環回IP位址."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAdditionalRouteMgr.cpp:233
+msgid "Please select action"
+msgstr "請選擇操作"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:78
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:147
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:159
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:286
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:302
+msgid "Page is loading, please wait..."
+msgstr "載入頁面中, 請稍等..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:184
+msgid "Package name:"
+msgstr "套餐名稱:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:185
+msgid "Expiration:"
+msgstr "過期時間:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:631
+#, c-format
+msgid "Package name: %s"
+msgstr "套餐名: %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:631
+msgid "Default package"
+msgstr "默認套餐"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:639
+#, c-format
+msgid " User level: %d"
+msgstr "用戶等級: %d"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:642
+#, c-format
+msgid "Traffic remaining: %s%s"
+msgstr "剩余流量: %s%s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAgentSSTap.cpp:647
+#, c-format
+msgid "Expiration: %s"
+msgstr "過期時間: %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAsyncDoing.cpp:31
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLoadDatas.cpp:182
+msgid "Loading datas, please wait a second..."
+msgstr "載入數據中，請稍等..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogAsyncDoing.cpp:122
+msgid "I Know"
+msgstr "我了解"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogBatchAddFromLink.cpp:51
+msgid "Input shadowsocks server link please."
+msgstr "請輸入Shadowsocks連結."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogBatchAddFromLink.cpp:87
+msgid "Batch add from SS/SSR link."
+msgstr "批次透過SS/SSR連結新增."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogBatchAddFromLink.cpp:88
+msgid "Input SS/SSR link below( Seperated by comma, space, newline,| )"
+msgstr "請在下方輸入SS/SSR位址( 使用逗號，空格，換行，|分隔位址 )"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogCautions.cpp:41
+msgid "Cautions"
+msgstr "警告"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogCautions.cpp:42
+msgid "Accept"
+msgstr "接受"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogCautions.cpp:43
+msgid "Decline"
+msgstr "拒絕"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogConfigureSmartDNS.cpp:157
+msgid "Configure smart DNS"
+msgstr "配置智能DNS"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogConfigureSmartDNS.cpp:158
+msgid "Default DNS"
+msgstr "默認DNS"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogConfigureSmartDNS.cpp:159
+msgid "DNS for native website:"
+msgstr "用于本土站點的DNS:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogConfigureSmartDNS.cpp:160
+msgid "Native websites list:"
+msgstr "本地網站列表:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogConfigureSmartDNS.cpp:161
+#: Tun2Proxy/trunk/Tun2Proxy/DialogConfigureSmartDNS.cpp:162
+msgid "Proxify this DNS server"
+msgstr "代理此DNS伺服器"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:46
+msgid "Donate"
+msgstr "捐贈"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:47
+msgid "WeChat"
+msgstr "WeChat"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:48
+msgid "Alipay"
+msgstr "支付寶"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:49
+msgid "BTCoin"
+msgstr "BTCoin"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:50
+msgid "Paypal"
+msgstr "Paypal"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:55
+msgid "Scan QR code to Donate with WeChat"
+msgstr "使用WeChat掃描QR碼捐贈"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:58
+msgid "Scan QR code to Donate with Alipay"
+msgstr "使用支付寶掃描QR碼捐贈"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:61
+msgid "Please Donate To Bitcoin Address or sccan QR code"
+msgstr "請捐贈至下方的比特幣錢包位址或掃描QR碼"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:65
+msgid "Click below button to donate with Paypal"
+msgstr "點擊下方的按鈕透過Paypal捐贈"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:67
+msgid ""
+"So, if you think that SSTap is good, please  give me financial support then "
+"I could working at this project continuative."
+msgstr ""
+"如果您覺得 SSTap 還不錯，希望您可以支援我的經濟，讓我得以持續開發此專案。"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogDonate.cpp:69
+msgid "Donate with Paypal"
+msgstr "透過Paypal捐贈"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:65
+msgid "Edit SSR Subscription"
+msgstr "編輯SSR訂閱"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:67
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:106
+msgid "Frequency:"
+msgstr "頻率:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:68
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:107
+msgid "Default params of OBFS:"
+msgstr "默認的OBFS參數:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:82
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:109
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:122
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:142
+msgid "Every time"
+msgstr "每次"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:83
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:107
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:111
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:123
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:140
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:144
+msgid "1 day"
+msgstr "1天"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:84
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:113
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:124
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:146
+msgid "2 days"
+msgstr "2天"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:85
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEditSSRSubscription.cpp:115
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:125
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:148
+msgid "3 days"
+msgstr "3天"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:104
+msgid "Events management"
+msgstr "事件管理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:105
+msgid "Add Events"
+msgstr "添加事件"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:106
+msgid "Event Type:"
+msgstr "事件類型:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:107
+msgid "Action Type:"
+msgstr "動作類型:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:108
+msgid "Action Param:"
+msgstr "動作參數:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:114
+msgid "Event Type"
+msgstr "事件類型"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:115
+msgid "Action Type"
+msgstr "動作類型"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogEventsMgr.cpp:116
+msgid "Action Param"
+msgstr "動作參數"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLoadDatas.cpp:67
+msgid "Loading configuration..."
+msgstr "加載配置..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLoadDatas.cpp:98
+msgid "Updating SSR-Subscriptions..."
+msgstr "正在更新SSR訂閱..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLoadDatas.cpp:140
+msgid "Loading proxy mode rules..."
+msgstr "正在載入代理模式規則..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:58
+msgid "Please wait while logging in..."
+msgstr "登入中,請稍後…"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:65
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:80
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:95
+#, c-format
+msgid "Login failed: %s"
+msgstr "登入失敗: %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:75
+msgid "Getting your order info..."
+msgstr "取得您的訂購資訊..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:90
+msgid "Getting proxy list..."
+msgstr "正在取得節點清單..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:106
+msgid "You have not purchased any packages yet."
+msgstr "您沒有購買任何套餐."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:113
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1078
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1119
+#: Tun2Proxy/trunk/Tun2Proxy/DialogVipSocksBase.cpp:76
+msgid "Ready!"
+msgstr "就緒!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:174
+#, c-format
+msgid "%s %s"
+msgstr "%s %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:177
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:179
+msgid "Log in"
+msgstr "登入"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:178
+msgid "Remember me"
+msgstr "記住登入資訊"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:180
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:216
+msgid "Recharge"
+msgstr "充值"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:181
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:223
+msgid "Forgot password?"
+msgstr "忘記密碼?"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:207
+msgid "Enter your username"
+msgstr "輸入您的用戶名"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:208
+msgid "Enter your password"
+msgstr "輸入您的密碼"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:210
+msgid "Register"
+msgstr "註冊"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:286
+msgid "Input username please!"
+msgstr "請輸入用戶名!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogLogin.cpp:291
+msgid "Input password please!"
+msgstr "請輸入密碼!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogProxyModeManagement.cpp:75
+msgid "Proxy mode management"
+msgstr "代理模式管理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogProxyModeManagement.cpp:78
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:108
+msgid "Edit"
+msgstr "編輯"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogProxyModeManagement.cpp:83
+msgid "Name"
+msgstr "名稱"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogProxyModeManagement.cpp:84
+msgid "Remarks"
+msgstr "備註"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:102
+msgid "SSR Subscriptions management"
+msgstr "SSR訂閱管理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:103
+msgid "Add Subscriptions"
+msgstr "新增訂閱"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:109
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:727
+msgid "Proxy:"
+msgstr "代理:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:113
+msgid "Group name"
+msgstr "群組名稱"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:114
+msgid "URL"
+msgstr "網址"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:115
+msgid "Frequency"
+msgstr "頻率"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:116
+msgid "Recently updated"
+msgstr "最近更新"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:117
+msgid "Default params of OBFS"
+msgstr "默認OBFS參數"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSRSubscriptions.cpp:118
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSelectProxy.cpp:110
+msgid "Proxy"
+msgstr "代理:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:227
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:164
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:282
+msgid "About..."
+msgstr "關於..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:376
+msgid "Add new proxy"
+msgstr "新增新的代理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:377
+msgid "Delete current proxy"
+msgstr "刪除當前代理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:378
+msgid "Edit current proxy"
+msgstr "編輯當前代理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:379
+msgid "Test current proxy"
+msgstr "測試當前代理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:381
+msgid "Create or edit proxy mode"
+msgstr "創建或修改代理模式"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:383
+msgid "Popup menu"
+msgstr "彈出功能表"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:384
+msgid "Donate this program"
+msgstr "捐贈以使程式能更好的發展"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:385
+msgid "Exit program"
+msgstr "關閉應用程式"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:386
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1308
+msgid "Connect to proxy"
+msgstr "連線至代理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:387
+msgid ""
+"Currently, UDP is not enabled, and some UDP-dependent programs may not work "
+"properly"
+msgstr "目前UDP轉發被停用, 依賴於UDP的某些程式將無法使用"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:615
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:623
+msgid "free"
+msgstr "閒置"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:617
+msgid "busy"
+msgstr "繁忙"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:619
+msgid "maintain"
+msgstr "維護"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:621
+msgid "stable"
+msgstr "穩定"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:684
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:685
+msgid "Start local service failed."
+msgstr "區域伺服器啟動失敗。"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:728
+msgid "Mode:"
+msgstr "模式:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:733
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1303
+msgid "CONNECT"
+msgstr "連線"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:788
+#, c-format
+msgid "Proxy: %s-%s:%d"
+msgstr "代理: %s-%s:%d"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:794
+#, c-format
+msgid "Proxy: %s-%s"
+msgstr "代理: %s-%s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:819
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:821
+#, c-format
+msgid "Mode: %s"
+msgstr "模式: %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:850
+#, c-format
+msgid ""
+"%s %s\n"
+"%s\n"
+"%s\n"
+"%s"
+msgstr ""
+"%s %s\n"
+"%s\n"
+"%s\n"
+"%s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:857
+msgid "UDP is enabled"
+msgstr "UDP已啟用"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:857
+msgid "UDP is disabled"
+msgstr "UDP已停用"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:862
+#, c-format
+msgid "%s %s %s"
+msgstr "%s %s %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:865
+msgid "Disconnected"
+msgstr "已斷線"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:994
+#, c-format
+msgid "%s is minimized to system tray"
+msgstr "%s已最小化至工作列"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:995
+msgid "You can restore it with double-click or context menu"
+msgstr "您可以雙擊工作列圖示或者在工作列圖示的右鍵功能表中重新開啟"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1294
+msgid "DISCONNECT"
+msgstr "中斷連線"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1299
+msgid "DisConnect from proxy"
+msgstr "中斷到代理伺服器的連線"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1384
+msgid "HTTP started failed, restart this program and retry it."
+msgstr "HTTP服務啟動失敗，請重新啟動本程式並重試."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1389
+msgid "Local service of SSR started failed, restart this program and retry it."
+msgstr "區域網路SSR伺服器啟動失敗，請重新啟動本程式並重試."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1414
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1415
+msgid "TUN virtual network card is not installed."
+msgstr "TUN虛擬網卡並沒有安裝。"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1423
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1424
+msgid "Please add and select a proxy first."
+msgstr "請先新增並選擇一個代理。"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1432
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1433
+msgid "Please select a proxy first."
+msgstr "請先新增並選擇一個代理."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1440
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1441
+msgid "Please select a proxy mode."
+msgstr "請選擇代理模式。"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:1449
+msgid "Please wait while connecting..."
+msgstr "正在連線，請稍等..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:2340
+#, c-format
+msgid ""
+"New Version [%s] has been released!\n"
+"\n"
+"Version Description:\n"
+"%s\n"
+"\n"
+"Update to new version now?"
+msgstr ""
+"偵測到新版本 [%s] !\n"
+"\n"
+"版本更新資訊:\n"
+"%s\n"
+"\n"
+"是否更新至新版本?"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:2998
+#, c-format
+msgid "New version [%S] is ready for you!"
+msgstr "新版本 [%S] 準備就位!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSSTapBase.cpp:2999
+#, c-format
+msgid "New version [%S] is ready for you! click here to update."
+msgstr "新版本 [%S] 準備就位! 點擊升級."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSelectProxy.cpp:103
+msgid "Select proxy"
+msgstr "選擇代理"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSelectProxy.cpp:106
+msgid "Select"
+msgstr "選擇"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:164
+msgid "Recommend to proxify DNS"
+msgstr "推薦代理此DNS伺服器"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:166
+msgid "Don't Recommend to proxify DNS"
+msgstr "不推薦代理此DNS"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:267
+msgid "Settings"
+msgstr "設定"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:269
+msgid "Reduce TCP Delayed ACK( Need to restart the system )"
+msgstr "減少TCP延遲確認時間 ( 需要重啟系統 )"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:270
+msgid "Do not forward UDP"
+msgstr "不轉發UDP"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:271
+msgid "Proxy DNS server"
+msgstr "代理DNS伺服器"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:272
+msgid "Enhanced UDP for Shadowsocks proxy"
+msgstr "使用進階的Shadowsocks UDP"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:273
+msgid "Recommended proxy DNS"
+msgstr "推薦代理此DNS伺服器"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:277
+msgid "Configure Smart DNS"
+msgstr "配置智能DNS"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:286
+msgid ""
+"Please select your local connection and TAP network interface careful, this "
+"is important."
+msgstr "請仔細選擇你的區域連線和TAP網路分流器,這很重要."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:287
+msgid "Local Connection:"
+msgstr "區域連線:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:288
+msgid "TAP Interface:"
+msgstr "TAP網路介面:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:289
+msgid "Preselected DNS:"
+msgstr "預設DNS:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:290
+msgid "Preferred DNS:"
+msgstr "常用DNS:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:291
+msgid "Alternate DNS:"
+msgstr "其他DNS:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:292
+msgid "Auto login"
+msgstr "自動登入"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:293
+msgid "Run at system startup"
+msgstr "開機啟動"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:294
+msgid "Automatically establish connection after startup"
+msgstr "啟動程式後自動連線"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:295
+msgid "Delayed connect:"
+msgstr "延遲連線："
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:296
+msgid "seconds"
+msgstr "秒"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:298
+msgid "Automatic hide window after connection established"
+msgstr "連接后自動隱藏窗體"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:382
+msgid "The delayed connect time can only be 1-300 seconds"
+msgstr "延遲連線時間需介於1-300秒"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:388
+msgid "Primary DNS must be specific!"
+msgstr "必須設定主要DNS!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:445
+msgid "Select a local connection please."
+msgstr "請選擇區域連線."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:467
+msgid "Select a TUN/TAP adapter please."
+msgstr "請選擇TUN/TAP適配器."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:515
+msgid ""
+"Attention please!\n"
+"\n"
+"Change \"Reduce TCP Delayed ACK\" need to restart the system!"
+msgstr ""
+"請注意!\n"
+"\n"
+"修改了 \"減少TCP延遲確認時間\" 需要重啟系統!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogSettings.cpp:531
+msgid "You must lelect a local connection and a TUN/TAP adapter."
+msgstr "你必須選擇一個區域連線與TUN/TAP適配器."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogShowLogs.cpp:60
+msgid "Action logs"
+msgstr "運作日誌"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:232
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:233
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:296
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:297
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:389
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:390
+msgid "Proxy mode error"
+msgstr "代理模式錯誤"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:255
+msgid "Connected!"
+msgstr "已連線!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:303
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:304
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:399
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:401
+msgid "You have not purchased any packages yet, can not start proxy engine."
+msgstr "您當前沒有沒有購買任何套餐，無法啓用代理引擎."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:309
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:408
+msgid ""
+"The server node you selected is now undergoing maintenance, please select "
+"another server node."
+msgstr "你選擇的代理伺服器正在維護中,請選擇其他代理伺服器."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:310
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:410
+msgid "The server node you selected is now undergoing maintenance."
+msgstr "你選擇的代理伺服器正在維護中."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:315
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:316
+msgid "HTTP is not started."
+msgstr "HTTP服務未啟動."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:343
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:569
+msgid "Testing TCP connection for current node..."
+msgstr "正在測試當前伺服器的TCP連線..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:351
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:575
+msgid "TCP connection test has failed, please switch a new node and try agian."
+msgstr "TCO連線測試失敗,請變更至其他伺服器後再試."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:382
+msgid ""
+"Virtual network interface driver not installed.\n"
+"Proxy modes based on virtual network card will not be available.\n"
+"Use Web Browser mode please."
+msgstr ""
+"虛擬網卡驅動未安裝.\n"
+"基于虛擬網卡的代理模式將無法使用.\n"
+"請使用瀏覽器模式."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:383
+msgid ""
+"Virtual network interface driver not installed,Proxy modes based on virtual "
+"network card will not be available. Use Web Browser mode please."
+msgstr ""
+"虛擬網卡驅動沒有安裝, 基于虛擬網卡的代理模式將無法使用, 請使用瀏覽器模式."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:425
+msgid "Getting basic network configuration..."
+msgstr "獲取基礎網絡配置..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:433
+msgid ""
+"Basic routing information is missing! \n"
+"\n"
+"Maybe your computer does not  have any network connection.\n"
+"Please restart this program and try again."
+msgstr ""
+"基礎路由資訊遺失! \n"
+"\n"
+"也許是您的電腦當前沒有任何網路連線.\n"
+"請重啟本應用程式後再次嘗試."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:434
+msgid "Basic routing information is missing"
+msgstr "基礎路由資訊缺失"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:441
+msgid "Starting smart DNS service..."
+msgstr "正在啟用智能DNS服務..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:444
+msgid "Failed to start smart DNS service..."
+msgstr "啟動智能DNS服務失敗..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:454
+msgid "Loading proxy mode..."
+msgstr "正在載入代理模式資訊..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:457
+msgid "Resolving SS server's domain name..."
+msgstr "正在解析SS伺服器的網域…"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:480
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:481
+msgid "Can not resolve SS server's domain name"
+msgstr "無法解析SS代理伺服器"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:497
+#: Tun2Proxy/trunk/Tun2Proxy/Testing/TestingCurrentNodeDlg.cpp:259
+msgid "SSH2: Connecting to server..."
+msgstr "SSH2: 正在連線到伺服器..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:542
+msgid "Retrieving the actual proxy IP address..."
+msgstr "正在取得真實代理IP位址..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:559
+#, c-format
+msgid "Your actual proxy IP is: %s"
+msgstr "你的真實代理IP位址是: %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:564
+msgid "Retrieving the actual proxy IP address...Failed!"
+msgstr "取得真實代理IP位址...失敗!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:591
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:632
+msgid "You are disabled UDP in the configuration."
+msgstr "您在設定中禁止了UDP."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:596
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:637
+msgid "UDP relay is disabled because you are using SOCKS 4 or HTTP proxy."
+msgstr "由於您正在使用一個SOCKS4或HTTP代理,所以UDP轉發被停用."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:601
+msgid "Testing UDP relay for current node..."
+msgstr "正在測試當前伺服器的UDP轉發..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:645
+msgid "UDP relay test has failed, UDP relay will be disabled."
+msgstr "UDP轉發測試失敗,UDP轉發將被停用."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:648
+msgid "Configging TAP network interface..."
+msgstr "正在設定TAP網路介面..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:713
+msgid "Starting TAP service..."
+msgstr "正在啟用TAP..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:740
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:741
+msgid "Launch TUN service failed."
+msgstr "啟用TUN失敗."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:792
+msgid "Verifying connection's status..."
+msgstr "正在驗證連線狀態..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:821
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:823
+msgid "TUN virtual network interface status is abnormal, please try agian."
+msgstr "TUN虛擬網卡狀態異常,請重試."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:837
+msgid "Configging network..."
+msgstr "正在設定網路..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:865
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:866
+msgid "The route manager is failed to initialize."
+msgstr "網路管理無法初始化。"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1021
+msgid "DisConnecting..."
+msgstr "正在斷開連線..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1049
+msgid "Disconnected!"
+msgstr "已離線!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1070
+msgid "UnInstalling old drivers..."
+msgstr "正在刪除舊的驅動..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1085
+msgid "Installing driver..."
+msgstr "正在安裝網路卡驅動程式..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1096
+msgid "Checking whether the driver is installed correctly..."
+msgstr "正在檢查網路卡驅動程式是否正確安裝..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1105
+msgid ""
+"Virtual network interface driver install failed.\n"
+"Proxy modes based on virtual network card will not be available."
+msgstr ""
+"虛擬網卡驅動安裝失敗.\n"
+"基于虛擬網卡的代理模式將無法使用."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTAPActions.cpp:1107
+msgid ""
+"Virtual network interface driver install failed,Proxy modes based on virtual "
+"network card will not be available."
+msgstr "虛擬網卡驅動安裝失敗, 基于虛擬網卡的代理模式將無法使用."
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTraffic.cpp:63
+msgid "Traffic Statistics:"
+msgstr "流量統計:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTraffic.cpp:64
+msgid "Live Speed:"
+msgstr "當前網速:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogTraffic.cpp:65
+msgid "Connections:"
+msgstr "連線數:"
+
+#: Tun2Proxy/trunk/Tun2Proxy/DialogVipSocksBase.cpp:71
+msgid "Enjoy Gaming"
+msgstr "享受遊戲"
+
+#: Tun2Proxy/trunk/Tun2Proxy/EventMgr.cpp:6
+msgid "Before Connect"
+msgstr "連接之前"
+
+#: Tun2Proxy/trunk/Tun2Proxy/EventMgr.cpp:7
+msgid "After Connect"
+msgstr "連接之后"
+
+#: Tun2Proxy/trunk/Tun2Proxy/EventMgr.cpp:8
+msgid "Before DisConnect"
+msgstr "斷開連接之前"
+
+#: Tun2Proxy/trunk/Tun2Proxy/EventMgr.cpp:9
+msgid "After DisConnect"
+msgstr "斷開連接之后"
+
+#: Tun2Proxy/trunk/Tun2Proxy/EventMgr.cpp:15
+msgid "Terminate process"
+msgstr "結束進程"
+
+#: Tun2Proxy/trunk/Tun2Proxy/EventMgr.cpp:16
+msgid "Notify Terminate process"
+msgstr "通知結束進程"
+
+#: Tun2Proxy/trunk/Tun2Proxy/EventMgr.cpp:110
+#, c-format
+msgid "Please close this process: %s"
+msgstr "請關閉此進程: %s"
+
+#: Tun2Proxy/trunk/Tun2Proxy/HTTPSufissProxy.cpp:351
+msgid "Get proxy list failed."
+msgstr "取得代理節點失敗."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PUTTYController.cpp:62
+msgid "File 'plink.exe' does not exist, please reinstall this program."
+msgstr "文件 'plink.exe' 不存在, 請重安裝本程式."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PUTTYController.cpp:100
+msgid "Failed to run 'plink'"
+msgstr "運行'plink'失敗"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PUTTYController.cpp:182
+msgid "SSH2: Connection timeout"
+msgstr "SSH2: 連接超時"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PUTTYController.cpp:191
+msgid "SSH2: Failed to connec to server"
+msgstr "SSH2: 連接到伺服器失敗"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PUTTYController.cpp:200
+msgid "SSH2: Access granted"
+msgstr "SSH2: 訪問已授權"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PUTTYController.cpp:207
+msgid "SSH2: Password authentication failed"
+msgstr "SSH2: 密碼認證失敗"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PUTTYController.cpp:213
+msgid ""
+"SSH2: SSH protocol version 1 required by our configuration but not provided "
+"by server"
+msgstr "SSH2: 我們所使用的SSH2協議版本號1不被伺服器接受"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:135
+msgid "Global"
+msgstr "全局"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:136
+msgid "China only"
+msgstr "僅代理中國IP"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:137
+msgid "Overseas only"
+msgstr "僅代理海外連線"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:139
+msgid "Proxy mode"
+msgstr "代理模式"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:148
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:150
+msgid "Show main window..."
+msgstr "顯示主視窗..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:153
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:189
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:252
+msgid "Settings..."
+msgstr "設定..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:155
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:256
+msgid "Events management..."
+msgstr "事件管理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:162
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:280
+msgid "Support..."
+msgstr "支援..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:163
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:281
+msgid "Contact me..."
+msgstr "聯系我..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:166
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:284
+msgid "Help"
+msgstr "幫助"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:170
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:254
+msgid "Additional route management..."
+msgstr "路由域管理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:178
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:264
+msgid "SSR Subscriptions management..."
+msgstr "SSR訂閱管理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:179
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:265
+msgid "Manual update SSR Subscriptions..."
+msgstr "手動更新SSR訂閱..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:181
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:267
+msgid "SSR Subscriptions"
+msgstr "SSR訂閱"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:190
+msgid "Open website"
+msgstr "打開網頁"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:194
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:291
+msgid "Check for updates"
+msgstr "檢查升級"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:196
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:293
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:312
+msgid "Exit"
+msgstr "退出"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:201
+#, c-format
+msgid "New version [%S] is ready!"
+msgstr "新版本 [%S] 已就位!"
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:222
+msgid "Add a SSH2 as a proxy..."
+msgstr "新增一個SSH2做為代理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:225
+msgid "Add a HTTP proxy..."
+msgstr "新增一個HTTP代理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:226
+msgid "Add a SOCKS4 proxy..."
+msgstr "新增一個SOCKS 4代理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:228
+msgid "Add a SOCKS5 proxy..."
+msgstr "新增一個SOCKS 5代理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:229
+msgid "Add a SS/SSR proxy..."
+msgstr "新增一個SS/SSR代理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:230
+msgid "Batch Add SS/SSR proxy from link..."
+msgstr "透過SS/SSR位址批量新增代理..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:272
+msgid "Show logs..."
+msgstr "顯示日誌檔..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:275
+msgid "Reset traffic statistics..."
+msgstr "重新設定流量統計..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/PopupMenus.cpp:311
+msgid "Logout"
+msgstr "登出"
+
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:257
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:258
+msgid "Global wide"
+msgstr "全局"
+
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:262
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:275
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:284
+msgid "Built-in rule"
+msgstr "內置規則"
+
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:270
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:271
+msgid "Web Browser only(Global)"
+msgstr "僅代理瀏覽器(全局設定)"
+
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:280
+#: Tun2Proxy/trunk/Tun2Proxy/ProxyModeMgr.cpp:281
+msgid "Web Browser only(Skip Chinese sites)"
+msgstr "僅代理瀏覽器(略過中國網域)"
+
+#: Tun2Proxy/trunk/Tun2Proxy/Testing/TestingCurrentNodeDlg.cpp:91
+msgid "Testing proxy server..."
+msgstr "正在測試代理伺服器..."
+
+#: Tun2Proxy/trunk/Tun2Proxy/Testing/TestingCurrentNodeDlg.cpp:203
+msgid "SOCKS 4 do not support UDP."
+msgstr "SOCKS 4不支援UDP."
+
+#: Tun2Proxy/trunk/Tun2Proxy/Testing/TestingCurrentNodeDlg.cpp:322
+msgid "Failed to create test thread."
+msgstr "創建測試線程失敗."
+
+#~ msgid "HTTP protocol is not supported yet."
+#~ msgstr "HTTP協定暫不支援."
+
+#~ msgid "Automatically obtain DNS settings from local connection"
+#~ msgstr "自動從區域連線取得DNS設定"
+
+#~ msgid "TUN virtual network interface driver install failed."
+#~ msgstr "TUN虛擬網卡驅動程式安裝失敗."
+
+#~ msgid "Login"
+#~ msgstr "登入"
+
+#~ msgid "Username"
+#~ msgstr "用戶名"
+
+#~ msgid "Password"
+#~ msgstr "密碼"
+
+#~ msgid "Proxy DNS is Recommended"
+#~ msgstr "推薦代理此DNS伺服器"
+
+#~ msgid "Proxy DNS is not recommended"
+#~ msgstr "不推薦代理此DNS伺服器"
+
+#~ msgid "Proxy mode: %s"
+#~ msgstr "代理模式: %s"
+
+#~ msgid "Regenerate IV for each UDP packet when using Shadowsocks"
+#~ msgstr "当使用Shadowsocks代理时为每个UDP包都重新生成IV"
+
+#~ msgid "Server password: %s"
+#~ msgstr "服务器密码: %s"
+
+#~ msgid "Testing finished."
+#~ msgstr "测试完成."
+
+#~ msgid "%s %s - %s"
+#~ msgstr "%s %s - %s"
+
+#~ msgid "Configging TUN/TAP adapter..."
+#~ msgstr "配置TUN / TAP适配器..."
+
+#~ msgid "Start TUN/TAP adapter failed."
+#~ msgstr "开启TUN/TAP适配器失败！"
